@@ -5,3 +5,4 @@ oluşturulmuştur. Doküman da projenin
 isterleri, tanımı, gelişim aşaması , bu 
 süreçte kullanılan araç ve programlar ve 
 en önemlisi kodları paylaşıyor olacağız.
+Projenin detayları rapor kısmında paylaşılmıştır.
